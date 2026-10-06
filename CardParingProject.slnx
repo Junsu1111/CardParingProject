@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CardParingProject/CardParingProject.vcxproj" Id="a6fc7369-e9c1-454f-91fa-892c4ba7c69b" />
+</Solution>
